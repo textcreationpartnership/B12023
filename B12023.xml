@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Conceits, clinches, flashes, and whimzies Newly studied, with some collections, but those never published before in this kinde.</title>
+            <author>Chamberlain, Robert, b. 1607.</author>
+         </titleStmt>
+         <extent>Approx. 67KB of XML-encoded text transcribed from 70 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12023</idno><idno type="EEBO-CITATION">99849113</idno>
+  <idno type="VID">176839</idno>
+  <idno type="EEBO-PROQUEST">2248532147</idno>
+  <idno type="STC">STC 4942</idno>
+  <idno type="STC">ESTC S113884</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849113e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176839)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 709:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Conceits, clinches, flashes, and whimzies Newly studied, with some collections, but those never published before in this kinde.</title>
+                  <author>Chamberlain, Robert, b. 1607.</author>
+               </titleStmt>
+               <extent>[138] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Hodgkinsonne for Daniel Frere and are to be sold at the signe of the Bull in little brittain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1639.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert Chamberlain.</note>
+                  <note>Has 299 jests.</note>
+                  <note>Signatures: A⁴ B-F¹²  G⁶ (-A1, blank?).</note>
+                  <note>Imperfect; leaves E10-11 lacking.</note>
+                  <note>Some print show-through; some pages marked and stained.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176839:1"/>
+            <pb facs="tcp:176839:1"/>
+            <p>CONCEITS, CLINCHES, FLASHES, AND WHIMZIES.</p>
+            <p>Newly studied, with some Collections but those ne<g ref="char:EOLhyphen"/>ver published before in this kinde.</p>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+            <p>Printed by <hi>R. Hodgkinsonne</hi> for <hi>Daniel Frere</hi> and are to be sold at the signe of the red <hi>Bull</hi> in <hi>little brittain</hi> 1639.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176839:2"/>
+            <pb facs="tcp:176839:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Entle Rea<g ref="char:EOLhyphen"/>der I here pre<g ref="char:EOLhyphen"/>sent thee with he producements of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome vaporing houres <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urposely intended to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>romote harmlesse mirth I wish thee as merry in the reading as I and some other of
+<pb facs="tcp:176839:3"/> my friends were in speaking of them, do but laugh at them and I am satisfied, for to that (and no other purpose) they were in<g ref="char:EOLhyphen"/>tended.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:176839:3"/>
+            <head>To the AUTHOR, on his <hi>Conceits.</hi>
+            </head>
+            <lg>
+               <l>FRiend, thy conceits flown from the dow<g ref="char:EOLhyphen"/>ney nest,</l>
+               <l>Of thy rich fancy, lighted on my brest.</l>
+               <l>Where (let me tell thee true, for 'twere a sin</l>
+               <l>To flatter any, much more flatter him</l>
+               <pb facs="tcp:176839:4"/>
+               <l>I hold my friend) I found such ample store,</l>
+               <l>In thy pure Mine of gold and silver ore</l>
+               <l>I became conscious that I sure was bound</l>
+               <l>Now to disclose toth' world what I had found.</l>
+               <l>And render to the readers no close end,</l>
+               <l>Could stop me from being theirs or thy true friend.</l>
+            </lg>
+            <closer>
+               <signed>T. Rawlins.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176839:4"/>
+            <p n="1">1 <seg rend="decorInit">A</seg>N idle justice of Peace is like the picture of Saint <hi>George</hi> upon a signe-post with his sword drawne to no pur<g ref="char:EOLhyphen"/>pose.</p>
+            <p n="2">2 Hee that speakes great gun<g ref="char:EOLhyphen"/>powder words may be compa<g ref="char:EOLhyphen"/>red to a deepe mouth'd Dogge,
+<pb facs="tcp:176839:5"/> or bee sayd to have a tympany in his tongue.</p>
+            <p n="3">3 A Souldier said hee had been in so many battels and had been so battered with bullets that hee swore hee thought hee had a mine of lead in his belly.</p>
+            <p n="4">4 Lovers oathes are like marry<g ref="char:EOLhyphen"/>ners prayers, when once the heate is over, they are not the same men.</p>
+            <p n="5">5 Women are like dead bodies for surgeons to worke upon,
+<pb facs="tcp:176839:5"/> because they tell a man his im<g ref="char:EOLhyphen"/>perfections.</p>
+            <p n="6">6 Musitians may be compared unto Camelions, because they live by ayre.</p>
+            <p n="7">7 One said it was a difficult thing to perswade a multitude (especially in a City where they are for the most part stronghea<g ref="char:EOLhyphen"/>ded) to any reason.</p>
+            <p n="8">8 One was called foole for asking what Country man a ploughman was because it is
+<pb facs="tcp:176839:6"/> knowne said one they were all borne in <hi>Hungarie.</hi>
+            </p>
+            <p n="9">9 One asked a man whether he had swallowed a Doctor of Phi<g ref="char:EOLhyphen"/>sickes bill, because hee spoke such hard words.</p>
+            <p n="10">10 The Philosophers stone had need turne all mettals to gold, because the study of it turnes all a mans gold to other mettall.</p>
+            <p n="11">11 One asked a poet where his wits were, hee answered a wool<g ref="char:EOLhyphen"/>gathering, the other replyed
+<pb facs="tcp:176839:6"/> there was no people had more need of it.</p>
+            <p n="12">12 One asked whence choller was discended, one answered that shee was the daughter of a great mans porter begot of a kitchin wench in the time of a feast.</p>
+            <p n="13">13 One asked another why hee loved woodcoke so extreamly, the other answered why not I as well as you, for I am sure you never go abroad but you carry one under your cloake.</p>
+            <p n="14">
+               <pb facs="tcp:176839:7"/>14 One asked why a Knight tooke place of a Gentleman, it was answered because they were Knights now a days before they were Gentlemen.</p>
+            <p n="15">15 One said the midwives trade of all trades was most commen<g ref="char:EOLhyphen"/>dable, because they lived not by the hurts of other men, as Sur<g ref="char:EOLhyphen"/>geons do; nor by the falling out of friends as Lawyers do: but by the agreement betwixt party and party.</p>
+            <p n="16">
+               <pb facs="tcp:176839:7"/>16 One said a good Client was like a study gown, that sits in the cold himselfe to keepe his Lawyer warme.</p>
+            <p n="17">17 One said the fees of a pander and a punie clarke are much a<g ref="char:EOLhyphen"/>like, for the pander had but two pence next morning for making the bed and that was a penny a sheet.</p>
+            <p n="18">18 A woman was commending a boyes face, pish quoth an<g ref="char:EOLhyphen"/>other give me a mans face, a
+<pb facs="tcp:176839:8"/> boyes face is not worth a haire.</p>
+            <p n="19">19 One compar'd a dominering fellow to a walking Spurre, that keeps a great jingling noise but never pricks.</p>
+            <p n="20">20 One said it was unfit a glasi<g ref="char:EOLhyphen"/>er should be a Constable be<g ref="char:EOLhyphen"/>cause he was a common quar<g ref="char:EOLhyphen"/>reller.</p>
+            <p n="21">21 One said he had received a shee-letter, because saith he it hath a young one in the belly of it.</p>
+            <p n="22">
+               <pb facs="tcp:176839:8"/>22 One asked the reason why Lawyers Clearks writ such wide lines, another answered it was done to keepe the peace, for if the Plantiffe should be in one line and the Defendant in the next line, the lines being too neare together they might per<g ref="char:EOLhyphen"/>haps fall together by the eares.</p>
+            <p n="23">23 One sayd hee was so tender hearted that he could not find in his heart to kill a louse, ano<g ref="char:EOLhyphen"/>ther answered that it proceeded only from faintheartednesse be<g ref="char:EOLhyphen"/>cause hee had not the heart to see his own blood.</p>
+            <p n="24">
+               <pb facs="tcp:176839:9"/>24 One said a rich widdow was like the rubbish of the world that helps only to stop the brea<g ref="char:EOLhyphen"/>ches of decayed houses.</p>
+            <p n="25">25 A master spoke in a straine his servant understood not, whereupon the servant desired his Master rather to give him blowes then such hard words.</p>
+            <p n="26">26 Those that say gallants put all upon their backs abuse them, for they spend a great deale more upon their bellies.</p>
+            <p n="27">
+               <pb facs="tcp:176839:9"/>27 One said it was a strange fashi<g ref="char:EOLhyphen"/>on that we had in England to receive money with wives and give money for wenches, It was answered that in ancient time women were good and then men gave money for their wives, but now like light gold they would not passe without allowance.</p>
+            <p n="28">28 One perswaded another to marry a whore because shee was rich, telling him that perhaps she might turne, turne said the o<g ref="char:EOLhyphen"/>ther she hath been so much worne that she is past turning.</p>
+            <p n="29">
+               <pb facs="tcp:176839:10"/>29 One put a jest upon his frend O said his friend that I could <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t see your braines I would e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n hug them for this jest.</p>
+            <p n="30">30 One asked why Sextons did use to weare black, it was an<g ref="char:EOLhyphen"/>swered that in regard of their office they were to meddle with grave matters and did therfore weare black.</p>
+            <p n="31">31 One seeing another weare a thred-bare cloake asked him whether his cloak was not slee<g ref="char:EOLhyphen"/>py
+<pb facs="tcp:176839:10"/> or no, why do you aske said the other, because said hee I thinke it hath not had a nap this seven yeeres.</p>
+            <p n="32">32 One asked what was the usu<g ref="char:EOLhyphen"/>all food of citizens wives, it was answered, though they loved flesh beter then fish yet for tem<g ref="char:EOLhyphen"/>perance sake they would so dy<g ref="char:EOLhyphen"/>et themselves that at noon they fed only upon carp, at night on cods-head, and when they went abroad a little place would content them better then any other thing.</p>
+            <p n="33">33 One wondred much what
+<pb facs="tcp:176839:11"/> great Scholler this same <hi>Finis</hi> was, because his name was al<g ref="char:EOLhyphen"/>most to every booke.</p>
+            <p n="34">34 One asked what he was that had a fine wit in jest, it was an<g ref="char:EOLhyphen"/>swered a foole in earnest.</p>
+            <p n="35">35 One hearing a Usurer say he had been on the pike of <hi>Teneriff</hi> (which is supposed to be one of the highest hils in the world) asked him why he had not stayd there for he was perswaded hee would never come so neere hea<g ref="char:EOLhyphen"/>ven againe.</p>
+            <p n="36">36 A Citizen begins a health to all the Cuckolds in the world,
+<pb facs="tcp:176839:11"/> the Gentleman to whom the health was presented seeing him with his cap in his hand, said, what doe you mean Sir pray ye remember your selfe.</p>
+            <p n="37">37 One asked a foot-boy why he was so affected with linnen stockings, he answered because he was troubled with running legges.</p>
+            <p n="38">38 One sayd to another that his face was like a popish almanack all holydayes because it was full of pimples.</p>
+            <p n="39">39 One sayd it was a good fashion that was worn now a dayes, be<g ref="char:EOLhyphen"/>cause
+<pb facs="tcp:176839:12"/> the Taylers had so contri<g ref="char:EOLhyphen"/>ved it that there was little or no waste in a whole suit.</p>
+            <p n="40">40 One said a jellous wife was like an irish trouze alwayes close to a mans tayle.</p>
+            <p n="41">41 One said an Apothecaryes house must needs be healthfull, because the windowes, benches boxes, and almost all the things in the house tooke physick.</p>
+            <p n="42">42 One said a Physitian was na<g ref="char:EOLhyphen"/>turall brother to the wormes,
+<pb facs="tcp:176839:12"/> because he was ingendered out of mans corruption.</p>
+            <p n="43">43 One gave a fellow a box on the eare, the fellow gave him another, what doe you meane (sayd he that gave the first box) I did not lend you a box, I free<g ref="char:EOLhyphen"/>ly gave it you, the other answe<g ref="char:EOLhyphen"/>r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> he was a gamster and had been alwayes us'd to pay the box.</p>
+            <p n="44">44 A Gentleman that bore a spleene to another meets him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the street gives him a box on <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he eare, the other not willing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o stricke againe puts it off with
+<pb facs="tcp:176839:13"/> a jest asking him whether it was in jest or in earnest, the other answers it was in earnest, I am glad of that said he for if it had been in jest I should have been very angry, for I do not like such jesting, and so past away from him.</p>
+            <p n="45">45 One that was justly jealous of his wife said prethee leave these courses, for if thou dost not they will ere it be long make me horne mad.</p>
+            <p n="46">46 One sayd to a gentleman that was too full of complement pray you Sir do not spend so
+<pb facs="tcp:176839:13"/> much wit, if you be so prodigall of it you will ere it be long have none left for your selfe.</p>
+            <p n="47">47 There is nothing sayes one more revengfull then hemp, for if a man once beat it, especially in Bridewell, 'tis a hundred to one but it will be the death of him shortly after.</p>
+            <p n="48">48 Hee that sweares when he lo<g ref="char:EOLhyphen"/>seth his mony at gaming, may challeng hel by way of purchase.</p>
+            <p n="49">49 One asked which were sup<g ref="char:EOLhyphen"/>posed
+<pb facs="tcp:176839:14"/> to be the two fruitfulles<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> acres of ground in the whole Kingdome? it was answered Westminster-Hall and the old Exchange.</p>
+            <p n="50">50 It was asked why fat men did love their ease so much, because sayd one the soule in a fat body lyes soft and is therefore loath to rise.</p>
+            <p n="51">51 One asked why yong Barri<g ref="char:EOLhyphen"/>sters used to stick their chamber windowes with letters, because said another it was the first thing that gave the world no<g ref="char:EOLhyphen"/>tice of their worships.</p>
+            <p n="52">
+               <pb facs="tcp:176839:14"/>52 One having dranke a cup of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead beere, swore that the beer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as more then fox'd, another <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emanding his reason quoth he <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecause it is dead drunke.</p>
+            <p n="53">53 Usurers live sayes one, by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he fall of heires, like swine by <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he dropping of acorns.</p>
+            <p n="54">54 One sayd a prodigall was like <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brush that spent it self to make others goe handsome in their cloathes.</p>
+            <p n="55">
+               <pb facs="tcp:176839:15"/>55 One wondred what pleasan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> kind of oratory the Pillory had in him, that men lov'd to hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their eares nail'd to it.</p>
+            <p n="56">56 One said suppose all the wo<g ref="char:EOLhyphen"/>men in the world were like pa<g ref="char:EOLhyphen"/>tient <hi>Grizell,</hi> then sayd another we might make Christmasbloks of the cucking-stooles.</p>
+            <p n="57">57 An Antiquary says one loves every thing: (as Dutch-men doe cheese) for being mouldy and wormeaten.</p>
+            <p n="58">
+               <pb facs="tcp:176839:15"/>58 One said a Player had an idle <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mployment of it, O you are mistaken sayd another for his whole life is nothing else but action.</p>
+            <p n="59">59 One asked his friend how he should use tobacco so that it might do him good, he answe<g ref="char:EOLhyphen"/>red you must keepe a tobacco shop and sell it, for certainly there is none else find good in it.</p>
+            <p n="60">60 A simple fellow in gay cloths sayes one, is like a Cinnamom<g ref="char:EOLhyphen"/>tree
+<pb facs="tcp:176839:16"/> the barke is of more worth then the body.</p>
+            <p n="61">61 If a man be <hi>Cornelius</hi> sAyes one he must be <hi>Tacitus</hi> too o<g ref="char:EOLhyphen"/>therwise he shall never live quietly.</p>
+            <p n="62">62 One entreated a prisoner to do him a curtesie, telling him that hitherto he had found him a fast friend and he hoped hee should find him so still.</p>
+            <p n="63">63 A Gentleman riding on the way would needs turne back to
+<pb facs="tcp:176839:16"/> kisse his wife that was behinde him, he was therefore com<g ref="char:EOLhyphen"/>mended for a kind husband in regard he was before to kisse his wife behinde.</p>
+            <p n="63">63 One asked whether such a man were wise or no, it was an<g ref="char:EOLhyphen"/>swered that he was otherwise.</p>
+            <p n="64">64 One perswaded a Scholer that was much given to going abroad that he would put away his cu<g ref="char:EOLhyphen"/>shion and it would be a meanes to make him sit harder to his study.</p>
+            <p n="66">
+               <pb facs="tcp:176839:17"/>66 One said poetry &amp; plain dea<g ref="char:EOLhyphen"/>ling were a couple of hansom wenches, another answered yes but he that weds himselfe to ei<g ref="char:EOLhyphen"/>ther of them shall dye a begger.</p>
+            <p n="67">67 One sayd he had heard the story of St. <hi>George</hi> how he kild the Draggon that would else have devoured the maide &amp; did wonder that men would devise such lies, for saith he it is held by most men that there was never such a man as St. <hi>George,</hi> nor e<g ref="char:EOLhyphen"/>ver such a creature as a Dragon
+<pb facs="tcp:176839:17"/> another answers for St. <hi>George,</hi> tis no great matter neither for the Draggon whether there were such or no, pray heaven there be a maide and then it is no matter.</p>
+            <p n="68">68 A Scholar and a Courtier meeting in the street seemd to contest for the wall, sayes the Courtier I do not use to give e<g ref="char:EOLhyphen"/>very coxcombe the wall, the Schollar answered but I do sir, and so passed by him.</p>
+            <p n="69">69 One asked the reason why women were so crooked and
+<pb facs="tcp:176839:18"/> perverse in their conditions, an<g ref="char:EOLhyphen"/>other answered because the first woman was made of a crooked thing.</p>
+            <p n="70">70 A rich Lawyer that had got a great estate by the Law upon his death bed was desirous to give twenty pound <hi>per annum,</hi> to the house of <hi>Bedlam,</hi> being demanded why he would give it to that house rather then an<g ref="char:EOLhyphen"/>other, he answered that he had got it of mad men and to them he would give it againe.</p>
+            <p n="71">71 One said women were like quick sands, seemed firme, but
+<pb facs="tcp:176839:18"/> if a man came upon them he fell in overhead and shoulders.</p>
+            <p n="72">72 Another said a woman was like a peece of old Grogram al<g ref="char:EOLhyphen"/>wayes fretting.</p>
+            <p n="73">73 One asked why men should thinke there was a world in the Moone. It was answered be<g ref="char:EOLhyphen"/>cause they were lunatique.</p>
+            <p n="74">74 One asked why Ladyes cal<g ref="char:EOLhyphen"/>led their husbands Master such a one, and master such a one, and not by their titles of knight<g ref="char:EOLhyphen"/>hood,
+<pb facs="tcp:176839:19"/> as Sir <hi>Thomas,</hi> Sir <hi>Richard</hi> Sir <hi>William,</hi> &amp;c. it was answe<g ref="char:EOLhyphen"/>red that though others called them by their right titles as Sir <hi>William,</hi> Sir <hi>Thomas,</hi> &amp;c. yet it was fit their wives should master them.</p>
+            <p n="75">75 One asked what was the first commodity a yong shopkeeper put off; it was answered his ho<g ref="char:EOLhyphen"/>nestie.</p>
+            <p n="76">76 One asked why <hi>Icarus</hi> would undertake to flye in the ayre? it was answered because he was a Buzzard.</p>
+            <p n="77">
+               <pb facs="tcp:176839:19"/>77 Two Gentlemen talking in latin in the presence of a wo<g ref="char:EOLhyphen"/>man she grew jealous that they spake of her and desired them to speake english that she might answer them, for she said she was perswaded when men spake latin although they spake but two words that still one of them was nought: whereupon one of the Gentlemen sayd pre<g ref="char:EOLhyphen"/>sently <hi>Bona mulier,</hi> she replyed I know <hi>bona</hi> is good, but I'le war<g ref="char:EOLhyphen"/>rant ye the other word meanes something that's nought.</p>
+            <p n="87">87 A simple fellow being too
+<pb facs="tcp:176839:20"/> bold with one that was his su<g ref="char:EOLhyphen"/>perior, was told he might say what he would for that day be<g ref="char:EOLhyphen"/>cause it was Innocents day, it being so indeed.</p>
+            <p n="81">81 One said a barber had need be honest and trusty because whosoever employed him, though it was but for a haire matter put his life into his hands.</p>
+            <p n="82">82 A suit in Law being referd to a Gentleman the plantiffe who had the equity of the cause on his side presented him with a new coach, the Defendant with a couple of horses, he li<g ref="char:EOLhyphen"/>king
+<pb facs="tcp:176839:20"/> the horses better then the coach gave sentence on the De<g ref="char:EOLhyphen"/>fendants side, the Plaintiffe calls to him and asketh him how it came to passe the coach went out of the right way, he answers that he could not help it for the horses had drawne it so.</p>
+            <p n="83">83 One perswaded his friend to marry a little woman because of evils, the least was to be chosen.</p>
+            <p n="84">84 One asked how it came to passe that hosts had usually red noses, it was answered that it was given to them by nature to show to the world an experi<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:176839:21"/> of the vertue of what he sold.</p>
+            <p n="83">83 A vaine glorious man was bragging that his Father &amp; his Uncle had founded such a Ho<g ref="char:EOLhyphen"/>spitall, one answered▪ 'tis true but yet know that your Father and your Uncle were the meere confounders of that Hospitall you speake of.</p>
+            <p n="84">84 One said a tooth drawer was a kind of an unconscionable trade because his trade was nothing else but to take away those things whereby every man gets his living.</p>
+            <p n="85">
+               <pb facs="tcp:176839:21"/>85 One asked why he that drew beere was not called a drawer aswell as he that drew wine, it was answered that beere made a man to pisse but it was wine made him draw.</p>
+            <p n="86">86 One said he wondred that lether was not dearer then any other thing, being demanded a reason: because saith he, it is more stood upon then any o<g ref="char:EOLhyphen"/>ther thing in the world.</p>
+            <p n="87">87 One said a hangman had a
+<pb facs="tcp:176839:22"/> contemplative profession be<g ref="char:EOLunhyphen"/>cause he never was at work bu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he was put in mind of his owne end.</p>
+            <p n="91">91 One called another rogue he answered durst I trust thee with a looking glasse you would quit me and condemne your selfe.</p>
+            <p n="92">92 A fellow that had no money in his pocket was in a great rage with another who told him, pray Sir do not put your self into too much heat unlesse you had more money in your pocket whereby to quench it.</p>
+            <p n="93">
+               <pb facs="tcp:176839:22"/>93 One being asked what coun<g ref="char:EOLhyphen"/>tryman he was, he answered a <hi>Middlesex</hi> man, the other told him being he was neither of the male sex nor of the female sex, but of a <hi>middlesex,</hi> he must then bee a <hi>Hermaphrodit.</hi>
+            </p>
+            <p n="94">94 One sayd corne was a quar<g ref="char:EOLhyphen"/>relsome creature because it rose by the blade and fel by the eares with those that cut it.</p>
+            <p n="95">95 Why do Ladies so affect slen<g ref="char:EOLhyphen"/>der wastes (said one) 'tis (repli<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:176839:23"/> another) because their ex<g ref="char:EOLhyphen"/>pences may not bee too great.</p>
+            <p n="93">93 One commending a Tayler for his dexteritie in his profes<g ref="char:EOLhyphen"/>sion; another standing by ra<g ref="char:EOLhyphen"/>tified his opinion saying tailors had their businesse at their fin<g ref="char:EOLhyphen"/>gers ends.</p>
+            <p n="94">94 One being demanded the rea<g ref="char:EOLhyphen"/>son why he thought the grea<g ref="char:EOLhyphen"/>test drinkers quickest of appre<g ref="char:EOLhyphen"/>hension, made this answer: <hi>Qui super naculum bibit ad unguem sapit.</hi>
+            </p>
+            <p n="95">
+               <pb facs="tcp:176839:23"/>95 A Poet sayes one is a man of great priviledge, because if he transgresse it is by a rule; viz. <hi>Li<g ref="char:EOLhyphen"/>centia poetica.</hi>
+            </p>
+            <p n="96">96 The severest stoicks (said one) are the greatest Students, be<g ref="char:EOLhyphen"/>cause their contracted browes are alwayes bent to study.</p>
+            <p n="97">97 Colliers and mine-workers should be well acquainted with all the philosophicall secrets of the Earth because they have deeper knowledge in it then any others.</p>
+            <p n="104">
+               <pb facs="tcp:176839:24"/>104 Tapsters said one should bee men of esteem because they are men not only of a high calling, but also of great reckoning.</p>
+            <p n="105">105 'Tis impossible that Saylers should be rich men, because they are never so well pleased as when they go downe the wind fastest.</p>
+            <p n="106">106 A woman said of all men she had a desire to marry a Hunts<g ref="char:EOLhyphen"/>man because he would not dis<g ref="char:EOLhyphen"/>daine to weare the home.</p>
+            <p n="107">
+               <pb facs="tcp:176839:24"/>107 Of all knaves there's the greatest hope of a Cobler, for though he be never so idle a fellow yet he is still mending.</p>
+            <p n="108">108 A Smith said one is the most pragmaticall fellow under the Sun for he hath alwayes many irons in the fire.</p>
+            <p n="109">109 The neatest man in a King<g ref="char:EOLhyphen"/>dome (sayd one) is a Barber for he cannot endure to have a hair amisse.</p>
+            <p n="104">
+               <pb facs="tcp:176839:25"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:176839:25"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:176839:26"/> 104 Wit bought is better then wit taught, because he that never bought any is but a natu<g ref="char:EOLhyphen"/>rall wit.</p>
+            <p n="105">105 'Tis probable that those wo<g ref="char:EOLhyphen"/>men that paint most shall live longest, for where the house is kept in repaire there is no feare but it will be inhabited.</p>
+            <p n="106">106 One said that tall men of all others were most happy be<g ref="char:EOLhyphen"/>cause they were neerer heaven then all other men.</p>
+            <p n="108">
+               <pb facs="tcp:176839:26"/>108 A squint-ey'd man (sayes one) is the most circumspect of all men because he can looke nine wayes at once.</p>
+            <p n="109">109 One said that tal men should be great polititians, because they have an extraordinary reach.</p>
+            <p n="110">110 One sayd hang-men were very happy because those men they do most hurt will never be able to render them <hi>quid pro quo</hi>
+            </p>
+            <p n="116">
+               <pb facs="tcp:176839:27"/>116 It is in some sort necessary that some rich men should be Dunces, because the preten<g ref="char:EOLhyphen"/>ders to learning may get prefer<g ref="char:EOLhyphen"/>ment, for the good wits will be able to helpe themselves.</p>
+            <p n="117">117 One was saying it was a fine quality to be able to speake wel <hi>ex tempore,</hi> why then said an<g ref="char:EOLhyphen"/>other we may commend every woman for they have the most nimble fluent tongues and that without study or considerati<g ref="char:EOLhyphen"/>on.</p>
+            <p n="118">
+               <pb facs="tcp:176839:27"/>118 Hang-men practice their cunning for the most part on good natur'd men, because they are ready to forgive before the hurt be attempted.</p>
+            <p n="119">119 Hee that hath but one eye is more like to hit the marke he aymes at then another, because he hath a monstrous sight.</p>
+            <p n="120">120 Glasiers said one must needes be good arbitrators for they spend their whole time in no<g ref="char:EOLhyphen"/>thing but composing of quarels.</p>
+            <p n="117">
+               <pb facs="tcp:176839:28"/>117 Carpenters said one are the civelest men in a Common<g ref="char:EOLhyphen"/>wealth for they never do their buisinesse without a Rule.</p>
+            <p n="118">118 Of all wofull friends a hang<g ref="char:EOLhyphen"/>man is the most trusty, for if he once have to do with a man he will see him hang'd before hee shall want mony or any thing else.</p>
+            <p n="119">119 Bricklayers are noteable wan<g ref="char:EOLhyphen"/>ton fellowes for they have al<g ref="char:EOLhyphen"/>wayes to do with one trull or other.</p>
+            <p n="120">
+               <pb facs="tcp:176839:28"/>120 Stationers could not live if men did not beleeve the old saying, that <hi>Wit bought</hi> is bet<g ref="char:EOLhyphen"/>ter then <hi>Wit taugbt.</hi>
+            </p>
+            <p n="121">121 Those that carry about with them counterfeit coyne are more nice and curious of it, then of good Gold and Silver, for they cannot endure to have that toucht of all the rest.</p>
+            <p n="122">122 Gunners are more serious in what they doe, then other men for what they doe they doe with a powder.</p>
+            <p n="127">
+               <pb facs="tcp:176839:29"/>127 <hi>Muscattiers</hi> of all other Soul<g ref="char:EOLhyphen"/>diers, are the most lazie for they are alwayes at their rest.</p>
+            <p n="128">128 One among a company of his companions who had beene drinking very much, by chance let a fart, who for conceit sake said to one of his companions with whom he might make bold, pree-thee pledge me, he answered I cannot; he then reply'd I pray do but kisse the cup.</p>
+            <p n="129">129 One passing through Cheap
+<pb facs="tcp:176839:29"/> side, a poore Woman desired his charity, he disregarding the woman kept on walking, and by and by let a fart: the woman hearing it said much good may it do your worship, he hearing her say so, turnes backe and gives her a tester; she thank't him and told his wor<g ref="char:EOLhyphen"/>ship it was a bad wind that did blow nobody good.</p>
+            <p n="126">126 A man walking the street let a great—upon which he je<g ref="char:EOLhyphen"/>stingly said cracke me that nut, it being heard of a waggish wench that was in a chamber o<g ref="char:EOLhyphen"/>ver his head, who being well provided at that time with a perfu'md chamber-pot, throws
+<pb facs="tcp:176839:30"/> it out of the window upon his head saying there's the kernill of your nut Sir.</p>
+            <p n="127">127 One said a Miller was the fit<g ref="char:EOLhyphen"/>test husband for a Scold, because when the mil goes if her tongue goes ne're so fast it cannot be heard.</p>
+            <p n="128">128 One said that Duke <hi>Hum<g ref="char:EOLhyphen"/>frey's</hi> guests were the most tem<g ref="char:EOLhyphen"/>perate men in the world, it be<g ref="char:EOLhyphen"/>ing known that at his Table there was never any made drunke, nor with his dyet dyed of a surfet.</p>
+            <p n="129">
+               <pb facs="tcp:176839:30"/>129 One said Physitians had the best of it, for if they did well the world did proclaime it, if ill the earth did cover it.</p>
+            <p n="130">130 It is a necessary and fit thing that women learn Roman-hand because (saith one) they were never good Secretaries nor e<g ref="char:EOLhyphen"/>ver will be.</p>
+            <p n="131">131 One saw a man and his wife fighting, the people asked him why he did not part them, he answered that he had been bet<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:176839:31"/> bred then to part man and wife.</p>
+            <p n="132">132 One said that <hi>Tobacconists</hi> would endure the wars well, for they would never be stifled with fire and smoake.</p>
+            <p n="133">133 A drawer for one thing or other is alwayes appearing at the barre but is not punisht, yet notwithstanding 'tis all scor'd up.</p>
+            <p n="134">134 Scriveners are most hard<g ref="char:EOLhyphen"/>harted fellowes for they never rejoyce more then when they
+<pb facs="tcp:176839:31"/> put other men in bonds.</p>
+            <p n="135">135 Smiths of all handy-crafts men are the most irregular, for they never thinke themselves better employed, then when they are addicted to their vices.</p>
+            <p n="136">136 Those which weare long haire are in the readyest way to make good Fryars, for they may promise to themselves the happinesse to enjoy bald crownes without the help of a Barber.</p>
+            <p n="137">137 Tapsters are not only very
+<pb facs="tcp:176839:32"/> rash but very expert, for they are apt to draw upon all occasi<g ref="char:EOLhyphen"/>ons, and yet suffer very few to go away scot-free.</p>
+            <p n="138">138 Of al diseases the three-quar<g ref="char:EOLhyphen"/>ters harme is most dangerous and most desired: for all wo<g ref="char:EOLhyphen"/>men desire to multiply though they labor ne're so hard for't.</p>
+            <p n="139">139 Fidlers are very unfortunate in their calling for they never do any thing but it is against the haire.</p>
+            <p n="140">140 Trumpeters are much subject
+<pb facs="tcp:176839:32"/> to sickly distempers, for com<g ref="char:EOLhyphen"/>monly when they are most in health they will fall a sounding.</p>
+            <p n="141">141 One being asked where he thought al woodcocks remaind in the Summer-time when they are not seene with us, it was answered in <hi>new England.</hi>
+            </p>
+            <p n="142">142 Horse-keepers and Ostlers (let the world go which way it will though there be never so much alteration in times and persons) are still stable men.</p>
+            <p n="143">
+               <pb facs="tcp:176839:33"/>143 One said it was no great mat<g ref="char:EOLhyphen"/>ter what a drunkard said in his drinke, for he seldome spake any thing that he could stand to.</p>
+            <p n="144">144 A <hi>Hypocrite</hi> is odious (saies one) to <hi>God,</hi> to <hi>Man,</hi> and to the <hi>Devill:</hi> God hates him because he is not what he seemes, Man hates him because he seemes what he is not, and the Devill hates him because he seems not what he is truly and indeed.</p>
+            <p n="145">145 One said of all professions,
+<pb facs="tcp:176839:33"/> that Stage-players were the most philosophicall men that were, because they were as mer<g ref="char:EOLhyphen"/>ry and as well contented when they were in rags as when they were in robes.</p>
+            <p n="146">146 Great Eaters are the most valiant men, for they never fight but with a good stomacke.</p>
+            <p n="147">147 One asked what the reason was that few women lov'd to eat egges? it was answered be<g ref="char:EOLhyphen"/>cause they cannot endure to beare the yoke.</p>
+            <p n="148">
+               <pb facs="tcp:176839:34"/>148 One drinking of a cup of burnt clarret, said he was not a<g ref="char:EOLhyphen"/>ble to let it down, another de<g ref="char:EOLhyphen"/>manded why? he answered be<g ref="char:EOLhyphen"/>cause it was red hot.</p>
+            <p n="149">149 A poor man that lived in the Suburbs of <hi>London</hi> being owner of a little field had got together so much mony to buy two little fields more of an acre of ground apeece, yet he was said to be rich because he had purchased <hi>More fields.</hi>
+            </p>
+            <p n="150">150 One said roaring Gallants
+<pb facs="tcp:176839:34"/> were like Pedlers, because some of them did carry their whole estates upon their backs.</p>
+            <p n="151">151 One said that some Taylors were like Woodcocks, because they lived by their long bils.</p>
+            <p n="152">152 An Oculist is excellent at sleight of hand, for if he under<g ref="char:EOLhyphen"/>take to cure a blind man he will so do it that the patient shall see he does it.</p>
+            <p n="153">153 One said it was dangerous to wrong a Phisitian, because if
+<pb facs="tcp:176839:35"/> he once have to do with a man he will be sure to make him thinke.</p>
+            <p n="154">154 An Inkeeper brag'd he had a bed so large that two hundred Constables had lyen in it at one time, meaning two Constables of hundreds.</p>
+            <p n="155">155 He that byes a horse in Smith field and does not looke upon him before he buye him with a paire of spectacles, makes his horse and himself a paire of sor<g ref="char:EOLhyphen"/>rofull spectacles for others to looke on.</p>
+            <p n="156">
+               <pb facs="tcp:176839:35"/>156 A prison is a good instru<g ref="char:EOLhyphen"/>ment of reformation, for it makes many rogues and lewd fellowes staid men.</p>
+            <p n="157">157 One complaining that his Sonne was a very prodigall, and that he would give an hundred pounds to have him reclaimed: his neighbor that heard him complaine, answer'd let him be a <hi>French-Tayler</hi> for they make no waste.</p>
+            <p n="158">158 A wax-chandlers shop being rob'd one of his friends came to
+<pb facs="tcp:176839:36"/> comfort him, and told him he should not be troubled at it, for he durst undertake his goods would come to light.</p>
+            <p n="159">159 One demanded of a wild yong Gentleman the reason why he would sel his land? who answered because he hoped to go to heven, which he could not possibly do til he forsook earth.</p>
+            <p n="160">160 In the Common-wealth of Fishes are many officers: <hi>Her<g ref="char:EOLhyphen"/>ring</hi> the King, <hi>Sword-Fish</hi> his guard, <hi>Lobsters</hi> are Aldermen, <hi>Brabs</hi> are Constables, and poor <hi>Johns</hi> the common sort of people.</p>
+            <p n="161">
+               <pb facs="tcp:176839:36"/>161 An idle unthrift having no<g ref="char:EOLhyphen"/>thing left to maintaine his hu<g ref="char:EOLhyphen"/>mor of good fellowship but his bed, sold it; for which being reproved by some friends, he answered that he could never be well so long as he kept his bed.</p>
+            <p n="162">162 Coblers may be said to be good men because they set men upright and are ever imployed in mending of soles.</p>
+            <p n="163">163 Two men seeing a handsome
+<pb facs="tcp:176839:37"/>
+               <hi>Wench</hi> but thought to be light, pass by in a very poore habit; the one said it was a wonder to see such a wench so bare, the other replied it was no wonder for she was common.</p>
+            <p n="164">164 A drunken fellow returning home towards evening, found his wife hard at her spinning, she reprooving him for his ill husbandry, and commending her self for her good huswifery, he told her that she had no great cause to chide, for as she had been spinning he came home all the way reeling.</p>
+            <p n="165">165 An ignorant drunken Surege<g ref="char:EOLhyphen"/>on▪
+<pb facs="tcp:176839:37"/> that kil'd all men that came under his hands, boasted him<g ref="char:EOLhyphen"/>selfe a better man then the <hi>Par<g ref="char:EOLhyphen"/>son;</hi> for said he your <hi>Cure</hi> main<g ref="char:EOLhyphen"/>tains but yourselfe but my <hi>Cures</hi> maintaine all the <hi>Sextons</hi> in the Towne.</p>
+            <p n="166">166 A merry fellow said the Ale<g ref="char:EOLhyphen"/>house was the only place to thrive in, for he had knowne many a <hi>score</hi> made there.</p>
+            <p n="167">167 Musitians may be said to be the best Philosophers, for they will be sure to keepe time.</p>
+            <p n="168">168 A woman that was very im<g ref="char:EOLhyphen"/>perious
+<pb facs="tcp:176839:38"/> over her husband, was nick-nam'd by a neighbor and cal'd Mistres <hi>Cap,</hi> for which she angerlie demanded his rea<g ref="char:EOLhyphen"/>son, and was answered because she was alwayes above her head.</p>
+            <p n="169">169 The same woman with her riotous humors having undone her husband and he being bro<g ref="char:EOLhyphen"/>ken and fled, the same neighbor reproving her, she bade him not medle with what did no way belong to him, for she had only broken her owne head.</p>
+            <p n="170">170 A Lady that was painted, tould a Gentleman she desired much
+<pb facs="tcp:176839:38"/> to have her picture done to the life, to which he answered you need not that Madam, for you are a picture to the life already.</p>
+            <p n="171">171 A Gentleman whose name was <hi>Stone,</hi> falling off his horse into a deep water out of which he got not without some dan<g ref="char:EOLhyphen"/>ger: his companion laugh'd at the mischance and being repro<g ref="char:EOLhyphen"/>ved, answered that no man but would laugh to see a stone swim.</p>
+            <p n="172">172 A foolish Gentleman defor<g ref="char:EOLhyphen"/>med likewise in his person, was called by one a monster, nay
+<pb facs="tcp:176839:39"/> surely said another the Gentle<g ref="char:EOLhyphen"/>man is meerly naturall.</p>
+            <p n="173">173 A country fellow asking which way he might go to <hi>Bed<g ref="char:EOLhyphen"/>lam,</hi> a Citizen tould him the nearest way was to be mad, then, said the Country fellow you horn-mad Citizens may the better direct us that are Country-men.</p>
+            <p n="174">174 A common wench stepping into a boate fell into the water, and reaching her hand to be helped out, one refus'd it say<g ref="char:EOLhyphen"/>ing she need not fear drowning
+<pb facs="tcp:176839:39"/> for she was so light she could never sinke.</p>
+            <p n="175">175 One threatned a fellow to breake his head with a stone, I'le assure you (quoth he) it is a hard matter to breake my head with a stone.</p>
+            <p n="176">176 A boy seemed much delight<g ref="char:EOLhyphen"/>ed with a Coblers worke com<g ref="char:EOLhyphen"/>mending and admiring his workmanship, the Cobler plea<g ref="char:EOLhyphen"/>sed with the boyes admiration asked him if he would be of his trade, to which he answered no; for though he loved work<g ref="char:EOLhyphen"/>manship he could not endure cobling.</p>
+            <p n="177">
+               <pb facs="tcp:176839:40"/>177 One hearing a rich Gentle<g ref="char:EOLhyphen"/>man (but ignorant enough) discourse somewhat weakly, how much land there was hol<g ref="char:EOLhyphen"/>den <hi>in capite,</hi> asked him if his wit was held <hi>in capite?</hi> to which he answered no; the other asked him againe if he had not some <hi>fe-simple</hi> held <hi>in capite?</hi> to which he answered yes; and that it did descend to him and his heires forever.</p>
+            <p n="178">178 A Physitian demanded mo<g ref="char:EOLhyphen"/>ney of another for one of his patients that was dead long be<g ref="char:EOLhyphen"/>fore, he was answered that it
+<pb facs="tcp:176839:40"/> was a worke of charity to visit the sick; but if he was so ear<g ref="char:EOLhyphen"/>nest for mony the only way was for him to visit the dead, and then he would never want mo<g ref="char:EOLhyphen"/>ney more.</p>
+            <p n="179">179 A rich Stationer wish't him<g ref="char:EOLhyphen"/>selfe a Scholler, to whom one answered you are one already, being <hi>doctus in libris,</hi> nay said the Stationer I am but <hi>dives in libris</hi> meaning rich in pounds.</p>
+            <p n="180">180 One boasted himselfe to be esteemd a wit, saying the world spoke him to be all wit: one standing by that knew him very
+<pb facs="tcp:176839:41"/> well, said i'st possible that you are taken to be a wit or one that is all-wit, if you be all wit, then your anagram is wit-all.</p>
+            <p n="181">181 A Gentleman hawk'd in an<g ref="char:EOLhyphen"/>others ground, to which the surly owner shewed himselfe angry, at which the Gentle<g ref="char:EOLhyphen"/>man spet in his face, what is your reason for that said the far<g ref="char:EOLhyphen"/>mer? I cry you mercy said the Gentleman I gave you warning for I hawk'd before I spet.</p>
+            <p n="182">182 One running hastely with a stick of fire in his hand to light a fagot another called him rogue
+<pb facs="tcp:176839:41"/> which being angry and deman<g ref="char:EOLhyphen"/>ding his reason? he answered for that he had a brand in his hand.</p>
+            <p n="183">183 A patient man being domi<g ref="char:EOLhyphen"/>neer'd over by his wife that was flying about his eares, desired her not to teare his band for he would gladly weare it (if she pleased) without cuffs.</p>
+            <p n="184">184 One was saying that lead was the basest of all other met<g ref="char:EOLhyphen"/>tals: it is true said another but yet it is the stoutest for the gla<g ref="char:EOLhyphen"/>sier will tell you that it keepes more quarrels asunder then any other mettal in the world.</p>
+            <p n="185">
+               <pb facs="tcp:176839:42"/>185 A Joyner on a time tooke a pill and it so wrought with him that he had fourty stooles in a minute of an houre.</p>
+            <p n="186">186 Carriers said one are wise men, for they will not medle with any thing but they will know of what moment and waight it is.</p>
+            <p n="187">187 One whose name was <hi>Gun,</hi> called a woman whore; she be<g ref="char:EOLhyphen"/>ing moved at it had him before a justice of peace about it, the
+<pb facs="tcp:176839:42"/> justice reprov'd him for it, and deepely charged him not to call her so againe. As they were go<g ref="char:EOLhyphen"/>ing home the woman told him Master <hi>Gun</hi> you heard what the justice said, I hope being so deeply charg'd you will hence<g ref="char:EOLhyphen"/>forward give a better report.</p>
+            <p n="188">188 One said Painters were cun<g ref="char:EOLhyphen"/>ning fellowes for they had a co<g ref="char:EOLhyphen"/>lour for every thing they did.</p>
+            <p n="189">189 One asked why kitchin<g ref="char:EOLhyphen"/>maids went so sluttishly? in re<g ref="char:EOLhyphen"/>gard they drest themselves as cleanly as they did their meat.</p>
+            <p n="190">
+               <pb facs="tcp:176839:43"/>190 One was holding a stiffe ar<g ref="char:EOLhyphen"/>gument with a Grocer concer<g ref="char:EOLhyphen"/>ning matters of trade: the Gro<g ref="char:EOLhyphen"/>cers wife bid him leave conte<g ref="char:EOLhyphen"/>sting with her husband, for her husband was able to shew him a thousand reasons for one.</p>
+            <p n="191">191 One said to his friend that had been speaking: I love to heare a man talke nonsence, the other answered I know you love to heare your selfe talke as well as any man.</p>
+            <p n="192">192 One asked why begars stood
+<pb facs="tcp:176839:43"/> in the streets begging with broomes in their hands? it was answered because they did with them sweep away the durt out of peoples sight, which while they had a mind on they would never part with a penny.</p>
+            <p n="193">193 A Gentleman tooke up some commodities upon trust in a shop, promising the master of the shop that he would owe him so much money: the master of the shop was therewith very well contented, but seeing that the Gentleman delayed the pai<g ref="char:EOLhyphen"/>ment he asked the money: the Gentleman told him he had not promised to pay him, he had promised to owe him so much
+<pb facs="tcp:176839:44"/> money and that he would in no wise breake his promise, which if he paid him he did.</p>
+            <p n="194">194 One said he had been kept still to the schoole and had been made a scholler if he could but have learned to have declined <hi>mulier</hi> and for that cause was ta<g ref="char:EOLhyphen"/>ken from the schoole.</p>
+            <p n="195">195 One desired upon his death<g ref="char:EOLhyphen"/>bed to have his corps when he was dead stuck with <hi>Isop,</hi> as is the fashion in divers places: one of his neighbors sitting by told him <hi>Time</hi> was better; why said the sick man? because said the
+<pb facs="tcp:176839:44"/> other unlesse you be buried in time you will stinke that no creature will be able to go with you to the grave.</p>
+            <p n="196">196 One asked another what <hi>Shakespeares</hi> works were worth all being bound together? he answered not a farthing; not worth a farthing said he why so? he answered that his plays were worth a great deale of mony but he never heard that his works were worth any thing at all.</p>
+            <p n="197">197 One was commending of the point-makers for good distinct
+<pb facs="tcp:176839:45"/> readers and that they read better then any other people whatso<g ref="char:EOLhyphen"/>ever: another asked his reason he answered that since the fa<g ref="char:EOLhyphen"/>shion of Cassocks came up they kept their points, and that was the only way to make a mans reading gracefull.</p>
+            <p n="198">198 Two Poets being merry in a taverne the one was desirous to be gone, the other entreated him to stay telling him that if he did goe away he would make a comedie upon him, you shall get nothing by that reply'd the other for then I will make a tra<g ref="char:EOLhyphen"/>gedy on thee and in the latter end of it thou shalt hang thy selfe.</p>
+            <p n="199">
+               <pb facs="tcp:176839:45"/>199 One meeting his friend ri<g ref="char:EOLhyphen"/>ding on the way without boots asked him about what busines he rid? the other told him that his businesse was of great im<g ref="char:EOLhyphen"/>portance and he was likewise in great haste: I am very doubtfull then said he, that your labor is lost: why said he? because quoth the other, you ride of a bootlesse errand.</p>
+            <p n="200">200 One being at supper at a friends house it chanced there was mutton and capers for sup<g ref="char:EOLhyphen"/>per: fell into a discourse of dancing saying that he loved it
+<pb facs="tcp:176839:46"/> better then any other kind of recreation, by and by taking notice of the capers which he had never seen before, tooke one upon his trencher cut it in the midle and put the halfe of it into his mouth: the master of the house observing it, said, Sir it seemes you love dancing, very well when you cannot forbeare but you must cut capers at supper.</p>
+            <p n="201">201 A fellow had the pictures of the five senses stolne out of his house, whereupon he came to a justice and desired that the theeves might be bound to the peace, for what said the Justice for stealing your pictures? yes
+<pb facs="tcp:176839:46"/> saith he; I thought said the Ju<g ref="char:EOLhyphen"/>stice, you had lost your senses, that you talke so idly.</p>
+            <p n="202">202 One amongst a croud of peo<g ref="char:EOLhyphen"/>ple on the top of <hi>Pauls steeple</hi> had his pocket pickt: what vil<g ref="char:EOLhyphen"/>laines are these quoth he to pick a mans pocket in the Church! nay Sir said another, you are but rob'd upon the high-way.</p>
+            <p n="203">203 One asked another what gender <hi>Hermaphroditus</hi> was of, he answered of the neuter.</p>
+            <p n="204">204 One complain'd he kenw
+<pb facs="tcp:176839:47"/> not how to maintaine his barns: be a good husband quoth a<g ref="char:EOLhyphen"/>nother and your barns will maintaine you.</p>
+            <p n="205">205 A rude deboist young man was plac'd by his friends with a Proctor, who observing the misbehaviour of the yong man, told his parents he feared their Sonne would never make a civil Lawyer.</p>
+            <p n="206">206 In some merry company one bid another mend his jests, for they were all crackt: they ought to be so said he, for it is no jest till it be broken.</p>
+            <p n="207">
+               <pb facs="tcp:176839:47"/>207 One sitting by the fire to take tobacco, said the fire was his friend and presently spet in<g ref="char:EOLhyphen"/>to it: to which one replyed you doe not well to quench your friends love by spetting in his face.</p>
+            <p n="208">208 A sawcy fellow abusing a Gentleman whose name was <hi>Fisher,</hi> the Gentleman strooke him: for which being reproved and threatned with an action; is it not lawfull said he for a fi<g ref="char:EOLhyphen"/>sher to strike a jack.</p>
+            <p n="209">209 Two schollers walking along
+<pb facs="tcp:176839:48"/> a River, were stiffely arguing a point and wish'd for a modera<g ref="char:EOLhyphen"/>tor or a booke of some autho<g ref="char:EOLhyphen"/>rity: one of them presently espying an angler sitting on a tree, cryed out, we have our wish! for yonder is <hi>piscator</hi> upon <hi>ramus.</hi>
+            </p>
+            <p n="210">210 Two Gentlemen comming into a taverne, one of them cal<g ref="char:EOLhyphen"/>led for a quart of claret, why doe you love claret said the o<g ref="char:EOLhyphen"/>ther? for my part I'le see i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> burnt before I'le drinke a dro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of it.</p>
+            <p n="211">211 A Gentleman shewing
+<pb facs="tcp:176839:48"/> yong student a part of <hi>Scotus</hi> in this sentence in an old caracter wherein was printed <hi>Dominus Scotus in sententi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and asked him if he was not <hi>Dunce Scotus?</hi> no replied the scholler <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat on not be; except V be there.</p>
+            <p n="212">212 One said Gallants had reason to be good Schollers, because they were deep in many books.</p>
+            <p n="213">213 One seeing a printed booke, that was but one sheet of paper said it was not necessary for any man to libell it for it did pe<g ref="char:EOLhyphen"/>nance in a sheet already.</p>
+            <p n="214">
+               <pb facs="tcp:176839:49"/>214 One asked which of the let<g ref="char:EOLhyphen"/>ters in the Alphabet were the most authentique in a Bill or Bond? it was answered, IOV.</p>
+            <p n="215">215 One asked why men and their wives did not agree better now adayes? it was answered men were now more learned, and did know that it was false concord that the masculine and femenine gender should agree at all.</p>
+            <p n="216">216 A Scholler that had his study hung round with browne paper
+<pb facs="tcp:176839:49"/> was us'd (when any came in to visit him in his study) to say, he did love sometimes to sit in a browne study.</p>
+            <p n="217">217 Two being in a taverne, the one swore the other should pledge him: why then quoth the other I will, who went pre<g ref="char:EOLhyphen"/>sently downe the staires, and left him as a pledge for the rec<g ref="char:EOLhyphen"/>koning.</p>
+            <p n="218">218 One asked wherefore a drum was in the wars? it was answe<g ref="char:EOLhyphen"/>red to stirre up valour in the Souldiers; that is strange said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he other for wheresoever the
+<pb facs="tcp:176839:50"/> victory falls the drums are sure to be beaten.</p>
+            <p n="219">219 One asked why B stood be<g ref="char:EOLhyphen"/>fore C? because said another, a man must B before he can C.</p>
+            <p n="220">220 One asked how long the lon<g ref="char:EOLhyphen"/>gest letter in the english Alpha<g ref="char:EOLhyphen"/>bet was? it was answered an L long.</p>
+            <p n="221">221 One asked why some gentle<g ref="char:EOLhyphen"/>women wore feathers in thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hats? it was answered becaus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they were light-headed.</p>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <p n="232">
+               <pb facs="tcp:176839:50"/>
+               <pb facs="tcp:176839:51"/>
+               <pb facs="tcp:176839:51"/> 232 Two (conspired together) whereof one was a Gold-smith, to steal a silver bole intending to share the businesse betwixt them, which when they had stolen he that was the goldsmith because it should not be known did gild it over: it was senten<g ref="char:EOLhyphen"/>ced when the matter came to scanning, though the other stole it, yet the gilt of the fact lay upon the gold-smith.</p>
+            <p n="233">233 One comming by a Sexton (who was making a grave for one <hi>Button</hi> which was a great tal fellow) asked him for whom
+<pb facs="tcp:176839:52"/> that extraordinary long grave was? he answered he had made many longer then that, and said it was but a button hole in re<g ref="char:EOLhyphen"/>spect of some graves that he had made.</p>
+            <p n="234">234 One said a barber was an a<g ref="char:EOLhyphen"/>ctive man for if he did once take out his combe he would box a man about the eares and the man scarce feele it.</p>
+            <p n="235">235 One said a cooke of all me had the worst digestion, for▪ soone as he had eaten his meat he would be sure to spit hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meat up againe.</p>
+            <p n="236">
+               <pb facs="tcp:176839:52"/>236 A great tall fellow whose name was <hi>Way,</hi> lay along the street drunke: one went over him, and being asked why he did so, he answered he did but goe along the high-way.</p>
+            <p n="237">237 A Gentleman (that was us'd to send his letters by a foot<g ref="char:EOLhyphen"/>post that was an old flegmatick rotten fellow) complained that he suffred much prejudice be<g ref="char:EOLhyphen"/>cause his letters came too late to his friends hands: another standing by told him it was his owne fault, because he did send them by a rotten post.</p>
+            <p n="238">
+               <pb facs="tcp:176839:53"/>238 One whose name was <hi>You</hi> married a woman whose name was <hi>You</hi> also: he for this cause was and ever will be cal'd Ma<g ref="char:EOLhyphen"/>ster <hi>W.</hi>
+            </p>
+            <p n="239">239 One who had been some<g ref="char:EOLhyphen"/>what bitter to his wife com<g ref="char:EOLhyphen"/>playned to his neighbour (who was a northern man borne, and spake accordingly) telling him that she was such a peevish wo<g ref="char:EOLhyphen"/>man that he could not endure to live with her, who advised him not to be so harsh to her but to goe to her and so-lace her and then she would be more kind to him.</p>
+            <p n="240">
+               <pb facs="tcp:176839:53"/>240 One was saying he wondred why the people in <hi>Aethiopia</hi> did not write straight along as we northern people: one answe<g ref="char:EOLhyphen"/>red they writ under the line and that was the reason of it.</p>
+            <p n="241">241 A <hi>Dyer</hi> who was an idle drunken fellow was complay<g ref="char:EOLhyphen"/>ning to a Scholler that he had very ill fortune in his businesse, and that commonly those things that he undertooke to dye were spoiled: the Scholler told him that the only way to have this amended was to reform himselfe, for he that lived ill
+<pb facs="tcp:176839:54"/> could never dye well.</p>
+            <p n="242">242 One whose name was <hi>Church</hi> was telling some of his neigh<g ref="char:EOLhyphen"/>bors that his wife was with child and that he never in his life saw any woman so big be<g ref="char:EOLhyphen"/>fore: besides, told them that he feared she would dye on child-bed. Whereupon one of them comforted him, saying that there was no cause to feare her death, and for her bignesse that was no wonder, in regard she had a church in her belly.</p>
+            <p n="243">243 A certaine man was mightily affected with a woman whose
+<pb facs="tcp:176839:54"/> name was <hi>Wall</hi> which did use painting very much, his friends did diswade him from com<g ref="char:EOLhyphen"/>ming neere her telling him they did wonder he was so besotted to set his affections upon a pain<g ref="char:EOLhyphen"/>ted wall.</p>
+            <p n="244">244 One (whose husbands name was <hi>Beane</hi>) being delivered of two children at a burden, told the midwife she had been so troubled with wind all the time she was with child that she wondred at it: the midwife said it was no marvaile in regard her belly so long had been full of beanes.</p>
+            <p n="245">245 One whose name was <hi>Mild</hi>
+               <pb facs="tcp:176839:55"/> being in a tavern tooke out a new coyn'd six pence, who ob<g ref="char:EOLhyphen"/>serving the company to take notice of the brightnesse of the peece, told them it was a mild sixpence.</p>
+            <p n="246">246 One asked what the reason was that some women were so light heel'd now adayes? it was answered because they did wear corke-heel'd shooes.</p>
+            <p n="247">247 One having a play book cal<g ref="char:EOLhyphen"/>led the <hi>Wits</hi> which he much va<g ref="char:EOLhyphen"/>lued, by chance lost it: but while he was chafing and swea<g ref="char:EOLhyphen"/>ring about the losse of his book,
+<pb facs="tcp:176839:55"/> in comes one of his friends who asking the cause of his distem<g ref="char:EOLhyphen"/>per, it was answered that he had lost his wits.</p>
+            <p n="248">248 One stood to prove that a brewers horse was a tapster be<g ref="char:EOLhyphen"/>cause he did draw beere: an<g ref="char:EOLhyphen"/>other answered him it could not be; because though a brew<g ref="char:EOLhyphen"/>ers horse (if he were overladen) would froth, yet he could not nicke.</p>
+            <p n="249">249 One reading of a <hi>Curranto</hi> said he wondred that men did so affect to lye in paper and yet without sheets.</p>
+            <p n="250">
+               <pb facs="tcp:176839:56"/>250 One asked what herbe that was that cured all diseases? it was answered <hi>Time.</hi>
+            </p>
+            <p n="251">251 One being about to write the superscription of a letter to his mistres, asked a Scholler what termes were best to give her? who told him the <hi>Venus lasse</hi> of his affections was a good word; he mistaking writ to the <hi>Venice glasse</hi> of his affecti<g ref="char:EOLhyphen"/>ons which was a truer title then he was aware off.</p>
+            <p n="252">
+               <pb facs="tcp:176839:56"/>252 An <hi>Ʋpholster</hi> was chiding his Apprentice because he was not nimble enough at his worke, and had not his nailes and ham<g ref="char:EOLhyphen"/>mar in readines when he should use them, telling him that when he was an Apprentice he was taught to have his nailes at his fingers ends.</p>
+            <p n="253">253 One whose name was <hi>Rapier</hi> being a man of a grave calling yet using to weare a white suite was chid for not getting a black scabbard to his rapier.</p>
+            <p n="254">
+               <pb facs="tcp:176839:57"/>254 One asked what that yong man deserved that did love al<g ref="char:EOLhyphen"/>wayes to be in a play-house? It was answered a box.</p>
+            <p n="255">255 One being at a friends house in the night was perswaded to stay all night, but denied saying he would be gone because it was moone light: his friend told him he thought he had not been so lunatique as to love to walke in the moone light.</p>
+            <p n="256">256 One wondred why there was
+<pb facs="tcp:176839:57"/> so many picke-pockets about the streets notwithstanding a watch was at every corner! it was answered that was all one for a pick-pocket would as gladly meet with a watch as any thing else.</p>
+            <p n="257">257 Certaine Gossips being a dis<g ref="char:EOLhyphen"/>coursing of the Company their husbands kept, troth sayes one my husband is no soo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er out of doores but he has as many a<g ref="char:EOLhyphen"/>bout him, as there is to see the great beast with two paire of horns.</p>
+            <p n="258">258 A Company of Country fel<g ref="char:EOLhyphen"/>lows disputing of learning, and
+<pb facs="tcp:176839:58"/> what a crooked, hard, and in<g ref="char:EOLhyphen"/>tricat thing it was to be a good Scholler: truly sayes one, and so it is, for I have heard your best laten is in crooked lane.</p>
+            <p n="259">259 One questioned which were the greatest wonders in the world? 'twas answered wo<g ref="char:EOLhyphen"/>mens <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tongues; for that they did alwayes lye, yet never ley still.</p>
+            <p n="260">260 One demanded what crea<g ref="char:EOLhyphen"/>ture was most like an Asse? he was answered a Puritane; in that they had the longest eares.</p>
+            <p n="261">
+               <pb facs="tcp:176839:58"/>261 A Coblers wife speaking of the place she liv'd in before she was married, her prentise mumbling said there was none but whores and Bauds lived there: what's that you say Sirrah quoth she? marry I say there are honester women then your selfe liv'd there.</p>
+            <p n="262">262 On a Puritan</p>
+            <lg>
+               <l>Who is't d'you thinke, this earth doth here inclose?</l>
+               <l>I know not; why, 'tis a disputing nose.</l>
+            </lg>
+            <p n="263">
+               <pb facs="tcp:176839:59"/>263 A young lascivious Gallant wanting mony, could not with his credit sell any thing: yet, his Father being but lately dead at lenght was checkt by some of his friends for his loose and ex<g ref="char:EOLhyphen"/>travagant life, and withall told that he had base and beastly A<g ref="char:EOLhyphen"/>sociats that did draw him to ill houses: he taking this oppor<g ref="char:EOLhyphen"/>tunity, answered, truly friends your counsell is very good, I will presently go sell my coach and horses.</p>
+            <p n="264">264 On a Cobler.</p>
+            <lg>
+               <l>If any aske why this same stone was made?</l>
+               <pb facs="tcp:176839:59"/>
+               <l>(Know) for a Cobler newly underlayd</l>
+               <l>Here for his overboasting; pray condole,</l>
+               <l>Him that translated many a weary sole.</l>
+            </lg>
+            <p n="265">265 A Steward being set on by a Theefe who commanded him to deliver, he being a Receiver: The Steward replyed, I hope you will spare me I being a Re<g ref="char:EOLhyphen"/>ceiver also: you shall be, said the Theefe if you deliver not the sooner.</p>
+            <p n="266">266 One sitting at dinner where great store of rude mirth was
+<pb facs="tcp:176839:60"/> discoursed and laught at: a prat<g ref="char:EOLhyphen"/>ling youth clapt him on the shoulder, and asked him if he was making verse he was so mute (who replyed he was) speake them quoth he? no re<g ref="char:EOLhyphen"/>plyed the other; why you can<g ref="char:EOLhyphen"/>not speake them in better com<g ref="char:EOLhyphen"/>pany: I suppose so quoth the modest man, but two fooles at once will be too troublesome.</p>
+            <p n="267">267 A Scholler cal'd a tayler base fellow in a taverne: who swore he would have him to the court of <hi>Honour:</hi> if you doe replyed the Scholler, looke you make your words good, for I would not willingly be the cause of putting it upon record.</p>
+            <p n="268">
+               <pb facs="tcp:176839:60"/>268 A Gentleman going along the street was entreated by a poore criple that had wooden legges to bestow his charity to whom the Gentleman answe<g ref="char:EOLhyphen"/>red if he would make a hansom legge he should have a couple of farthings.</p>
+            <p n="269">269 A company of Gentlemen comming into a Tavern whose signe was the Moone called for a quart of sacke the drawer told them they had none? whereat the gentlemen wondring were told by the drawer that the man in the Moone alwayes drunke Claret.</p>
+            <p n="270">
+               <pb facs="tcp:176839:61"/>270 One that was skild in writing short hand, promised a Lawiers Clarke to teach him his skill who thanked him for his paines but told him they could not live by making short hand of any thing.</p>
+            <p n="271">271 One said a civit cat was a dainty thing to keepe in a house because her dung was sweet, an<g ref="char:EOLhyphen"/>other said it was true but yet it was more profitable to keepe a cooke especially in a deare yee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> because he spitted rost.</p>
+            <p n="272">
+               <pb facs="tcp:176839:61"/>272 One asked why hard wax was so much in request now a dayes it was answered because the world did wax so hard.</p>
+            <p n="273">273 A woman having married an old man whose name was <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> (whom she thought had been very rich, but not worth a penny) being asked what she had by her marriage, answered an old <hi>Edward.</hi>
+            </p>
+            <p n="274">274 A Gentleman comming in the night to visit an old man
+<pb facs="tcp:176839:62"/> who had a hansom wench to his wife, and suspected to be a lit<g ref="char:EOLhyphen"/>tle too light was entreated by the old man to walke into a roome, his wife having a candle in her hand, entreated the gen<g ref="char:EOLhyphen"/>tleman to follow her, who told her he would have her husband (because he was an old man) to follow the light.</p>
+            <p n="274">274 Two Gentlemen were in a deep dispute whether the man in the Moone were a gentleman or a cittizen, it was determined by a Scholler that when she was at full, there was a gentle<g ref="char:EOLhyphen"/>man in her, but when she appea<g ref="char:EOLhyphen"/>red like a horne there was a cit<g ref="char:EOLhyphen"/>tizen in her.</p>
+            <p n="275">
+               <pb facs="tcp:176839:62"/>275 A justice of peace sending a <hi>Cheat</hi> to deserved punishment, the Cheater bewailing his hard fortune wished he could as ea<g ref="char:EOLhyphen"/>sily learne to commit as the Ju<g ref="char:EOLhyphen"/>stice could discover knavery: why, that you may said the Ju<g ref="char:EOLhyphen"/>stice; never, reply'd the Knave without I be put in authority.</p>
+            <p n="276">276 A Gentleman in wants was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dvised by his friend to serve a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oble man that so he might <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aise his fortune: that was said <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to refuse a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esser poverty for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> greater, for although I am <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oore yet I have my selfe, there <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> shall not.</p>
+            <p n="277">
+               <pb facs="tcp:176839:63"/>277 A french-man scoffing at the fancies of the English, in admi<g ref="char:EOLhyphen"/>ring their Nation and negle<g ref="char:EOLhyphen"/>cting their owne, was thus an<g ref="char:EOLhyphen"/>swered: We in England estee<g ref="char:EOLhyphen"/>med you, as you in France do our hownds for pleasure</p>
+            <p n="278">278 One scoffingly demanded of a Drawer with a great Crimson face full of high rubyes, when he was at the Barbers? the draw<g ref="char:EOLhyphen"/>er answer'd, troth Sir I cannot tell well, but to my best remem<g ref="char:EOLhyphen"/>brance 'twas much about the time your face was brased.</p>
+            <p n="279">
+               <pb facs="tcp:176839:63"/>279 A booke-binder disappoin<g ref="char:EOLhyphen"/>ting a Scholler of his Books which he had to bind for him, the Scholler being angry cal'd him idle Knave; the Binder not long after brought home his books and hauing received his mony for▪ <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em, desired to know of the Scholler why he cal'd him Knave the other day? to deale plainly with thee said the Scholler because I would not flatter thee; Why Sir doe you thinke so said the Binder? yes faith replyed the Scholler; then, I waigh not your words much quoth the Binder, since children and fooles speake what they thinke: I but they are
+<pb facs="tcp:176839:64"/> Knaves (said the Scholler) that speake against knowledge: In<g ref="char:EOLhyphen"/>deed Sir I tooke you for one of them and so went his way.</p>
+            <p n="281">281 A foolish mellancholly Gen<g ref="char:EOLhyphen"/>tle man riding with his man on the high way suddenly cryed out his foot his foot! his man started and desired him to light that he might see what 'twas that hurt him, then pluck off this boot, said he, which being done the man told him, sir here is nothing, then prethee sayes the gentleman pluck off the o<g ref="char:EOLhyphen"/>ther, for sure one of them pai<g ref="char:EOLhyphen"/>ned me.</p>
+            <p n="282">
+               <pb facs="tcp:176839:64"/>282 A pretty wench but lately come out of the Country in her pouledavis and linsi-woolsy petticoats, living in the strand, was seene not long after in her silkes and sattins and being by one of her country-women de<g ref="char:EOLhyphen"/>manded how such might be purchased? faith answer'd she only for the <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="283">283 A Citizen going out of towne with some of his neigh<g ref="char:EOLhyphen"/>bors to hunt, pree-thee sweet heart (sayes he to his wife) pray that I meet not a <hi>Diana</hi> and so come home like to <hi>Actaeon,</hi>
+               <pb facs="tcp:176839:65"/> horn'd, or be torne to peeces with the dogs: his wife think<g ref="char:EOLhyphen"/>ing he had closely jeer'd her, and thinking to be revenged; said truly husband whether you meet <hi>Diana</hi> or no, I'le take or<g ref="char:EOLhyphen"/>der you shall not want.</p>
+            <p n="284">284 Certain Gallants being at a taverne where they spar'd no liquor: insomuch that all were well entred: but one whose head was somewhat weaker and therefore lighter, did nothing but spew; and calling for a re<g ref="char:EOLhyphen"/>koning, why sayes one of his friends cannot you tell, that have so often cast up what you have drunke.</p>
+            <p n="285">
+               <pb facs="tcp:176839:65"/>285 A Gentleman meeting of a married Souldier newly come from the wars, demanded what charge he underwent? the Soldier replyed a Captaines: truly answered the Gentleman then you may help your wife to an Ancients place for she can beare stoutly.</p>
+            <p n="286">286 A fellow going downe <hi>Lud<g ref="char:EOLhyphen"/>gate-Hill,</hi> his heeles by chance slipping from him fell upon his breech: one standing by told him that London-stones were stout and scornfull; it may be so quoth he, yet I made them to kisse my breech as stout as they were.</p>
+            <p n="287">
+               <pb facs="tcp:176839:66"/>287 A Coward told his friend that one gave him a box on the eare and he did not strike him again but turn'd the other also to him: to which his friend an<g ref="char:EOLhyphen"/>swered sure there was a great fight betwixt you when blowes were given on both sides.</p>
+            <p n="288">288 One asked why Prentices were so briefe with their clubs when Gentlemen were falling out or quareling in the streets? one replyed it was their oppor<g ref="char:EOLhyphen"/>tunity to be revenged on them for medling with their mi<g ref="char:EOLhyphen"/>stresses.</p>
+            <p n="289">
+               <pb facs="tcp:176839:66"/>289 A Country farmer having a Pound neere his house, whereat was a Dunghill which at it's full maturity he sold: on the next market-day amongst other dis<g ref="char:EOLhyphen"/>course told his neighbors that he had made as good a market as ever he did in his life, for he had sold all his dunghill by the pound: one replyed troth neighbor you cannot chuse but be rich, I have one to sell, pray neighbor tell me how you sold a pound, and how many hun<g ref="char:EOLhyphen"/>dred weight there was in it.</p>
+            <p n="290">290 One asked a Gentlewoman
+<pb facs="tcp:176839:67"/> in which part of the house she did use to lye? it was answer'd that she lay backwards and did let out her fore-roomes.</p>
+            <p n="291">291 A company of Gentlemen in a tavern amongst the rest one whose name was <hi>Bramble</hi> who being very quarelsome, ere they parted fell to words and so to blowes, and had beaten and scratch't one of the Gentlemen in the face that he bled, whogo<g ref="char:EOLhyphen"/>ing home one of his friends meeting him by the way asked the cause how he came to bleed so: No great harme replyed he onely (a <hi>bramble</hi>) by chance scratch't me.</p>
+            <p n="292">
+               <pb facs="tcp:176839:67"/>292 One told his friend if he would be pleased to go with him he would bring him to a place where they should have wenches and lobsters by the belly.</p>
+            <p n="293">293 A shoe-maker sent his man unto a Gentleman who had ought him money a long-time for bootes and shoes that had formerly been made for him; the servant comming to the Gentleman told him his Master would intreate him to send that little money which was due to him as aforesaid, whereat
+<pb facs="tcp:176839:68"/> the Gentleman (rather wil<g ref="char:EOLhyphen"/>ling to cavell then pay) in a great rage answered. Thou rogue what doth thy Master thinke I am running away that he sends after me for such a tri<g ref="char:EOLhyphen"/>fle as this is? No Sir replyed the servant, my master doth not thinke you are about to runne away; but he is, and that makes him so earnest with you and others that he might take his money along with him.</p>
+            <p n="294">294 A Gentleman invited to his table many guests, and provi<g ref="char:EOLhyphen"/>ded for them divers dishes of meate, amongst the rest there being a legge of <hi>Mutton,</hi> one in the company took it and fell
+<pb facs="tcp:176839:68"/> so homely to worke with it, that he pared off all the flesh and laying it in scraps in the dish called to a servant to break the bone for him, which one perceiving that sat next the gentleman that invited them, jogged him and shewed him how uncivilly the party had be<g ref="char:EOLhyphen"/>haved himselfe; whereupon the Gentleman a little mov'd yet unwilling to be too playne began a tale to the whole table thus, I was quoth he not long since with a friend of mine that much delighted in hunting and after our sport, comming home he would needs see his dogges fed before he would eate any thing himselfe, which I labo<g ref="char:EOLhyphen"/>red to diswade him from, in re<g ref="char:EOLhyphen"/>gard he was in a very faire new
+<pb facs="tcp:176839:69"/> white Satten sute which might <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongst the dogs receive some hurt, but rather willed him for that time to suffer some of his servants to do it; all would not prevail but into the yard where the dogs were kept he went, whither he was no sooner come but one of the dogs that was all mire and dirt fell to ramping on him and albeit the dogge spoy<g ref="char:EOLhyphen"/>led his faire suite yet he rebu<g ref="char:EOLhyphen"/>ked not the dogge but on the contrary cherished him, which I perceiving said to my friend, Sir what doe you mean to suf<g ref="char:EOLhyphen"/>fer a scurvy dog to spoyle such a suite as that is, alas replyed my friend, what would you have me doe to him you see as wel as I he is but a puppy. Which was no sooner spoken but by all
+<pb facs="tcp:176839:69"/> the table applied to him that had so spoyled the mutton.</p>
+            <p n="295">295 One asked whence the word <hi>Interpreter</hi> was derived? it was answered <hi>quasi Inter-prater,</hi> for one that prated betwixt two that spake severall languages.</p>
+            <p n="296">296 One asked why Chamber<g ref="char:EOLhyphen"/>maids were more troubled with the greene-sicknesse then other women? it was answered be<g ref="char:EOLhyphen"/>cause they used to lye at their Masters beds-feet.</p>
+            <p n="297">297 One asked what beast in the
+<pb facs="tcp:176839:70"/> world might be said to have the best understanding? it was an<g ref="char:EOLhyphen"/>swered a Cuckold.</p>
+            <p n="298">298 A maid told her Mistresse she must entreat her to keepe more maids, because she was much overlaid.</p>
+            <p n="299">299 Printers (saies one) are the most lawlesse men in a King<g ref="char:EOLhyphen"/>dome for they commit faults <hi>eum privilegio.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:176839:70"/>
+         </div>
+      </body>
+   </text>
+</TEI>
